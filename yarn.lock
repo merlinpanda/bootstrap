@@ -3242,10 +3242,10 @@ https-proxy-agent@^2.2.1:
     agent-base "^4.3.0"
     debug "^3.1.0"
 
-hugo-bin@^0.88.1:
-  version "0.88.1"
-  resolved "https://registry.npmmirror.com/hugo-bin/-/hugo-bin-0.88.1.tgz#6890073da165539224c4b5f7fb3243c933eb2d62"
-  integrity sha512-/yuGi1eJIr70OJRZVctKIXTPZK1DSzWDRnjD6vw3aOZuEMOYS2kUsr3WfdCq9USO3kLTWrejVASzABr1AUbpZQ==
+hugo-bin@^0.94.0:
+  version "0.94.0"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.94.0.tgz#32fcdc0d5026cba29f3634225f49fab2ad0aba18"
+  integrity sha512-qo/jl+Rc2EZ0glyunLNu2WUFYl9BhUWMGO+VFB/hmT9Hj1MjeVHzQ38zB0etq+RaGKW8TunEHeQ+vT6iApT7Yw==
   dependencies:
     bin-wrapper "^4.1.0"
     picocolors "^1.0.0"
